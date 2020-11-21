@@ -5,8 +5,7 @@ from scipy import ndimage
 
 
 class Anonymize:
-    def __init__(self, blur=20, padding=10, secure=False, eyes_only=False,
-            *args, **kwargs):
+    def __init__(self, blur=20, padding=10, secure=False, eyes_only=False, *args, **kwargs):
         self.padding = padding
         self.blur = blur
         self.secure = secure
