@@ -1,4 +1,4 @@
-tensorflow
+tensorflow-gpu
 numpy==1.18.5
 scipy
 pillow
