@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="49" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="pymongo" />
+            <item index="1" class="java.lang.String" itemvalue="pyaml" />
+            <item index="2" class="java.lang.String" itemvalue="pysam" />
+            <item index="3" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="4" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="5" class="java.lang.String" itemvalue="pyfakewebcam" />
+            <item index="6" class="java.lang.String" itemvalue="numpy" />
+            <item index="7" class="java.lang.String" itemvalue="tfjs-graph-converter" />
+            <item index="8" class="java.lang.String" itemvalue="dvc" />
+            <item index="9" class="java.lang.String" itemvalue="traitlets" />
+            <item index="10" class="java.lang.String" itemvalue="pathspec" />
+            <item index="11" class="java.lang.String" itemvalue="regex" />
+            <item index="12" class="java.lang.String" itemvalue="nbformat" />
+            <item index="13" class="java.lang.String" itemvalue="toml" />
+            <item index="14" class="java.lang.String" itemvalue="attrs" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlCurrentSchemaInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
